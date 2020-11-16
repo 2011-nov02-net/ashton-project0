@@ -1,4 +1,5 @@
 ﻿using System;
+using StoreLibrary;
 
 namespace ashton_project0
 {
@@ -6,7 +7,8 @@ namespace ashton_project0
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+            
         }
     }
 }
